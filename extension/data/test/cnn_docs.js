@@ -2531,7 +2531,7 @@ business: {
 }
 ,sports: {
  "name": "sport",
- "expectedCat": "sport",
+ "expectedCat": "sports",
  "visits": [
   [
    "http://edition.cnn.com/2014/10/22/sport/football/liverpool-real-madrid-champions-league/index.html",
